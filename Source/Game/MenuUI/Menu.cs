@@ -5,20 +5,23 @@ using FlaxEngine.GUI;
 
 namespace Game
 {
+
     public class Menu : Script
     {
+
         [Tooltip("The button that initilizes the game ui")]
         public UIControl InitButton;
 
-        public Prefab GameUI;
-
-        public SceneAnimation Animation;
+        public Actor MenuUI;
         
+        public Actor GameUI;
+
         public override void OnStart()
         {
             InitButton.Get<Button>().ButtonClicked += button =>
             {
-                PrefabManager.SpawnPrefab(GameUI);
+                MenuUI.IsActive = false;
+                GameUI.IsActive = true;
             };
         }
     }

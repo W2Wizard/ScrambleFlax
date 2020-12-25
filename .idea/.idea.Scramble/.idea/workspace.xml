@@ -1,17 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cce56327-7ce8-4a02-be2e-e6925c7575ce" name="Default Changelist" comment="" />
+    <list default="true" id="cce56327-7ce8-4a02-be2e-e6925c7575ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scramble/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scramble/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Scramble/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Scramble/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Scramble/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Scramble/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/GameEditorTarget/Windows/x64/Development/Game.CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/GameEditorTarget/Windows/x64/Development/Game.CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/GameEditorTarget/Windows/x64/Development/Game.CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/GameEditorTarget/Windows/x64/Development/Game.CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/GameEditorTarget/Windows/x64/Development/Game.CSharp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/GameEditorTarget/Windows/x64/Development/Game.CSharp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Binaries/GameEditorTarget/Windows/x64/Development/GameEditorTarget.Build.json" beforeDir="false" afterPath="$PROJECT_DIR$/Binaries/GameEditorTarget/Windows/x64/Development/GameEditorTarget.Build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cache/AssetsCache.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Cache/AssetsCache.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cache/Intermediate/BuildScripts/Windows/AnyCPU/Debug/CSharp/BuildScripts.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Cache/Intermediate/BuildScripts/Windows/AnyCPU/Debug/CSharp/BuildScripts.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cache/Intermediate/GameEditorTarget/Windows/x64/Debug/CSharp/Game.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Cache/Intermediate/GameEditorTarget/Windows/x64/Debug/CSharp/Game.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cache/Intermediate/GameEditorTarget/Windows/x64/Development/Game.CSharp.response" beforeDir="false" afterPath="$PROJECT_DIR$/Cache/Intermediate/GameEditorTarget/Windows/x64/Development/Game.CSharp.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cache/Intermediate/Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Cache/Intermediate/Log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cache/Intermediate/TaskGraph.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Cache/Intermediate/TaskGraph.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cache/ProjectCache.dat" beforeDir="false" afterPath="$PROJECT_DIR$/Cache/ProjectCache.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cache/WindowsLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cache/WindowsLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cache/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/Cache/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Root.scene" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Root.scene" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Log_2020_12_25_10_32_43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Log_2020_12_25_11_03_33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/Log_2020_12_25_13_49_07.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/Log_2020_12_25_13_49_07.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Game.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Game.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Game/GameUI/GameScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Game/GameUI/GameScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Game/MenuUI/Menu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Game/MenuUI/Menu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Game/MySettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Game/WordData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Game/WordData.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/5e/2d748518/JsonAsset.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/cd/d11f8677/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/af/9b430325/GenericJsonAssetProxy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/0a/b0f5a7e5/Random.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/dd/72d07306/SettingsBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/46/edd98720/Color.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/ff/b0daafa2/Label.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/f9/ac06a179/GameSettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/ac/8e79cbf8/OptionsModule.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/3b/b90322ac/UIControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/45/5e46d8cb/PhysicsSettings.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -23,11 +59,14 @@
       <option value="$PROJECT_DIR$/Source/Game/Menu.cs" />
       <option value="$PROJECT_DIR$/Source/Game/Test.cs" />
       <option value="$PROJECT_DIR$/Source/Game/MainMenu/Menu.cs" />
-      <option value="$PROJECT_DIR$/Source/Game/GameUI/GameScript.cs" />
+      <option value="$PROJECT_DIR$/Source/Game/MySettings.cs" />
+      <option value="$PROJECT_DIR$/Source/Game/MenuUI/Menu.cs" />
       <option value="$PROJECT_DIR$/Source/Game/WordData.cs" />
+      <option value="$PROJECT_DIR$/Source/Game/GameUI/GameScript.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1m8ySQ785hEh9EmRapic5Oj0I4K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,6 +75,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -45,13 +85,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608889512934</updated>
-      <workItem from="1608889524088" duration="7673000" />
+      <workItem from="1608889524088" duration="13291000" />
+      <workItem from="1608910986843" duration="4886000" />
     </task>
     <servers />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

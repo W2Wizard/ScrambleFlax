@@ -18,25 +18,6 @@
 			}
 		},
 		{
-			"ID": "9675a79543f4e994aefa6c86cd55a735",
-			"TypeName": "FlaxEngine.DirectionalLight",
-			"ParentID": "6520d8404c480a960fb282af672c9094",
-			"Name": "Sun",
-			"Transform": {
-				"Translation": {
-					"X": 40.0,
-					"Y": 341.9916076660156,
-					"Z": 0.0
-				},
-				"Orientation": {
-					"X": 0.3826834559440613,
-					"Y": 0.0,
-					"Z": 0.0,
-					"W": 0.9238795042037964
-				}
-			}
-		},
-		{
 			"ID": "dddc34c744037ac8debfe2a577a0dce5",
 			"TypeName": "FlaxEngine.Camera",
 			"ParentID": "6520d8404c480a960fb282af672c9094",
@@ -46,7 +27,6 @@
 			"ID": "cfabff134bd6c26c865bd6834abf4217",
 			"TypeName": "FlaxEngine.EmptyActor",
 			"ParentID": "6520d8404c480a960fb282af672c9094",
-			"IsActive": false,
 			"Name": "MenuUI"
 		},
 		{
@@ -310,7 +290,7 @@
 			"Name": "C2",
 			"Transform": {
 				"Translation": {
-					"X": 2.0,
+					"X": 27.0,
 					"Y": 2.0,
 					"Z": 0.0
 				}
@@ -362,7 +342,7 @@
 		"Y": 0.0
 	},
 	"Offsets": {
-		"Left": 2.0,
+		"Left": 27.0,
 		"Right": 21.0,
 		"Top": 2.0,
 		"Bottom": 46.0
@@ -398,7 +378,7 @@
 			"Name": "R3",
 			"Transform": {
 				"Translation": {
-					"X": 2.0,
+					"X": 52.0,
 					"Y": 2.0,
 					"Z": 0.0
 				}
@@ -450,7 +430,7 @@
 		"Y": 0.0
 	},
 	"Offsets": {
-		"Left": 2.0,
+		"Left": 52.0,
 		"Right": 21.0,
 		"Top": 2.0,
 		"Bottom": 46.0
@@ -486,7 +466,7 @@
 			"Name": "A4",
 			"Transform": {
 				"Translation": {
-					"X": 2.0,
+					"X": 77.0,
 					"Y": 2.0,
 					"Z": 0.0
 				}
@@ -538,7 +518,7 @@
 		"Y": 0.0
 	},
 	"Offsets": {
-		"Left": 2.0,
+		"Left": 77.0,
 		"Right": 21.0,
 		"Top": 2.0,
 		"Bottom": 46.0
@@ -574,7 +554,7 @@
 			"Name": "M5",
 			"Transform": {
 				"Translation": {
-					"X": 2.0,
+					"X": 102.0,
 					"Y": 2.0,
 					"Z": 0.0
 				}
@@ -626,7 +606,7 @@
 		"Y": 0.0
 	},
 	"Offsets": {
-		"Left": 2.0,
+		"Left": 102.0,
 		"Right": 21.0,
 		"Top": 2.0,
 		"Bottom": 46.0
@@ -662,7 +642,7 @@
 			"Name": "B6",
 			"Transform": {
 				"Translation": {
-					"X": 2.0,
+					"X": 127.0,
 					"Y": 2.0,
 					"Z": 0.0
 				}
@@ -714,7 +694,7 @@
 		"Y": 0.0
 	},
 	"Offsets": {
-		"Left": 2.0,
+		"Left": 127.0,
 		"Right": 21.0,
 		"Top": 2.0,
 		"Bottom": 46.0
@@ -750,7 +730,7 @@
 			"Name": "L7",
 			"Transform": {
 				"Translation": {
-					"X": 2.0,
+					"X": 152.0,
 					"Y": 2.0,
 					"Z": 0.0
 				}
@@ -802,7 +782,7 @@
 		"Y": 0.0
 	},
 	"Offsets": {
-		"Left": 2.0,
+		"Left": 152.0,
 		"Right": 21.0,
 		"Top": 2.0,
 		"Bottom": 46.0
@@ -838,7 +818,7 @@
 			"Name": "E8",
 			"Transform": {
 				"Translation": {
-					"X": 2.0,
+					"X": 177.0,
 					"Y": 2.0,
 					"Z": 0.0
 				}
@@ -890,7 +870,7 @@
 		"Y": 0.0
 	},
 	"Offsets": {
-		"Left": 2.0,
+		"Left": 177.0,
 		"Right": 21.0,
 		"Top": 2.0,
 		"Bottom": 46.0
@@ -1005,6 +985,16 @@
 }
 		},
 		{
+			"ID": "2fca493847eebb763842188935c03cb5",
+			"TypeName": "Game.Menu",
+			"ParentID": "bcce79c64cba6041f5aa2caf6063bfcd",
+			"V": {
+	"InitButton": "bcce79c64cba6041f5aa2caf6063bfcd",
+	"MenuUI": "cfabff134bd6c26c865bd6834abf4217",
+	"GameUI": "b1e806764d0cb35472402f975665e68e"
+}
+		},
+		{
 			"ID": "0f03a76143d0c432c30efabb631cc93d",
 			"TypeName": "FlaxEngine.UIControl",
 			"ParentID": "5864c8dc482f5910bf8f95b707cfe343",
@@ -1106,9 +1096,9 @@
 			"Name": "TitleAnimation",
 			"Transform": {
 				"Translation": {
-					"X": -436.1234130859375,
+					"X": 28.081188201904298,
 					"Y": 0.0,
-					"Z": -175.77671813964845
+					"Z": 0.0
 				}
 			},
 			"Animation": "27eb03e048d6ab9e8e8172aba6420603",
@@ -1119,6 +1109,7 @@
 			"ID": "b1e806764d0cb35472402f975665e68e",
 			"TypeName": "FlaxEngine.EmptyActor",
 			"ParentID": "6520d8404c480a960fb282af672c9094",
+			"IsActive": false,
 			"Name": "GameUI"
 		},
 		{
@@ -1139,7 +1130,7 @@
 	"RenderCamera": "dddc34c744037ac8debfe2a577a0dce5",
 	"Distance": 350.0,
 	"Size": {
-		"X": 705.311035,
+		"X": 604.574951,
 		"Y": 404.1452
 	}
 }
@@ -1226,13 +1217,101 @@
 }
 		},
 		{
+			"ID": "e58ec452476117cef67b0bb3295a8da7",
+			"TypeName": "FlaxEngine.UIControl",
+			"ParentID": "2120dc864b58dfd3607ab283b3f67644",
+			"Name": "State",
+			"Transform": {
+				"Translation": {
+					"X": 291.7874755859375,
+					"Y": 172.0,
+					"Z": 0.0
+				}
+			},
+			"Control": "FlaxEngine.GUI.Label",
+			"Data": {
+	"Text": "...",
+	"TextColor": {
+		"R": 1.0,
+		"G": 1.0,
+		"B": 1.0,
+		"A": 1.0
+	},
+	"TextColorHighlighted": {
+		"R": 1.0,
+		"G": 1.0,
+		"B": 1.0,
+		"A": 1.0
+	},
+	"HorizontalAlignment": 1,
+	"VerticalAlignment": 1,
+	"Wrapping": 0,
+	"Font": {
+		"Font": "cb84507a4db69fd8d161db9658aab54c",
+		"Size": 25
+	},
+	"Margin": {
+		"Left": 0.0,
+		"Right": 0.0,
+		"Top": 0.0,
+		"Bottom": 0.0
+	},
+	"ClipText": false,
+	"AutoWidth": false,
+	"AutoHeight": false,
+	"AutoFitText": false,
+	"AutoFitTextRange": {
+		"X": 0.1,
+		"Y": 100.0
+	},
+	"ClipChildren": true,
+	"CullChildren": true,
+	"AnchorMin": {
+		"X": 0.5,
+		"Y": 0.0
+	},
+	"AnchorMax": {
+		"X": 0.5,
+		"Y": 0.0
+	},
+	"Offsets": {
+		"Left": -10.5,
+		"Right": 21.0,
+		"Top": 172.0,
+		"Bottom": 46.0
+	},
+	"Scale": {
+		"X": 1.0,
+		"Y": 1.0
+	},
+	"Pivot": {
+		"X": 0.5,
+		"Y": 0.5
+	},
+	"Shear": {
+		"X": 0.0,
+		"Y": 0.0
+	},
+	"Rotation": 0.0,
+	"BackgroundColor": {
+		"R": 0.0,
+		"G": 0.0,
+		"B": 0.0,
+		"A": 0.0
+	},
+	"Enabled": true,
+	"Visible": true,
+	"AutoFocus": false
+}
+		},
+		{
 			"ID": "f53e298f428469981a78c887a071bd83",
 			"TypeName": "FlaxEngine.UIControl",
 			"ParentID": "2120dc864b58dfd3607ab283b3f67644",
 			"Name": "GuessWord",
 			"Transform": {
 				"Translation": {
-					"X": 342.155517578125,
+					"X": 291.7874755859375,
 					"Y": 128.0,
 					"Z": 0.0
 				}
@@ -1320,7 +1399,7 @@
 			"Name": "Input",
 			"Transform": {
 				"Translation": {
-					"X": 292.655517578125,
+					"X": 242.2874755859375,
 					"Y": 252.14520263671876,
 					"Z": 0.0
 				}
@@ -1434,7 +1513,25 @@
 			"ID": "953ed0cc4409511714fd228e7cc0c6aa",
 			"TypeName": "Game.GameScript",
 			"ParentID": "dafbcc46478cbc204669289e5a22edd2",
-			"V": {}
+			"V": {
+	"TextInput": "dafbcc46478cbc204669289e5a22edd2",
+	"WordGuessInput": "f53e298f428469981a78c887a071bd83",
+	"StateInput": "e58ec452476117cef67b0bb3295a8da7"
+}
+		},
+		{
+			"ID": "90589ec147f1a6fd8e06b5a39357624a",
+			"TypeName": "FlaxEngine.Skybox",
+			"ParentID": "6520d8404c480a960fb282af672c9094",
+			"Name": "Skybox",
+			"Transform": {
+				"Translation": {
+					"X": -33.170860290527347,
+					"Y": 0.0,
+					"Z": 0.0
+				}
+			},
+			"CubeTexture": "c54410104ff39427bc11e5bc761d66b0"
 		}
 	]
 }

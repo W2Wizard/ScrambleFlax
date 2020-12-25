@@ -1,0 +1,7 @@
+C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Binaries\GameTarget\Windows\x64\Debug\Game.CSharp.xml
+C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Binaries\GameTarget\Windows\x64\Debug\Game.CSharp.dll
+C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Binaries\GameTarget\Windows\x64\Debug\Game.CSharp.pdb
+C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache\Intermediate\GameTarget\Windows\x64\Debug\CSharp\Game.csproj.CoreCompileInputs.cache
+C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache\Intermediate\GameTarget\Windows\x64\Debug\CSharp\Game.csproj.CopyComplete
+C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache\Intermediate\GameTarget\Windows\x64\Debug\CSharp\Game.CSharp.dll
+C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache\Intermediate\GameTarget\Windows\x64\Debug\CSharp\Game.CSharp.pdb

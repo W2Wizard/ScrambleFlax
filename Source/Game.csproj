@@ -194,20 +194,19 @@
     <Compile Include="Game.Gen.cs" />
     <Compile Include="Game\GameUI\GameScript.cs" />
     <Compile Include="Game\MenuUI\Menu.cs" />
-    <Compile Include="Game\MySettings.cs" />
+    <Compile Visible="false" Include="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameEditorTarget\Windows\x64\Debug\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameEditorTarget\Windows\Win32\Debug\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameEditorTarget\Windows\x64\Development\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameEditorTarget\Windows\Win32\Development\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameEditorTarget\Windows\x64\Release\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameEditorTarget\Windows\Win32\Release\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\x64\Debug\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\Win32\Debug\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\x64\Development\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\Win32\Development\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\x64\Release\Game\Game.Bindings.Gen.cs" />
+    <Compile Visible="false" Include="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\Win32\Release\Game\Game.Bindings.Gen.cs" />
     <Compile Include="Game\WordData.cs" />
-    <Compile Visible="false" Include ="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameEditorTarget\Windows\x64\Debug\Game\Game.Bindings.Gen.cs" />
-    <Compile Visible="false" Include ="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameEditorTarget\Windows\Win32\Debug\Game\Game.Bindings.Gen.cs" />
-    <Compile Visible="false" Include ="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameEditorTarget\Windows\x64\Development\Game\Game.Bindings.Gen.cs" />
-    <Compile Visible="false" Include ="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameEditorTarget\Windows\Win32\Development\Game\Game.Bindings.Gen.cs" />
-    <Compile Visible="false" Include ="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameEditorTarget\Windows\x64\Release\Game\Game.Bindings.Gen.cs" />
-    <Compile Visible="false" Include ="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameEditorTarget\Windows\Win32\Release\Game\Game.Bindings.Gen.cs" />
-    <Compile Visible="false" Include ="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\x64\Debug\Game\Game.Bindings.Gen.cs" />
-    <Compile Visible="false" Include ="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\Win32\Debug\Game\Game.Bindings.Gen.cs" />
-    <Compile Visible="false" Include ="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\x64\Development\Game\Game.Bindings.Gen.cs" />
-    <Compile Visible="false" Include ="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\Win32\Development\Game\Game.Bindings.Gen.cs" />
-    <Compile Visible="false" Include ="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\x64\Release\Game\Game.Bindings.Gen.cs" />
-    <Compile Visible="false" Include ="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\Win32\Release\Game\Game.Bindings.Gen.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

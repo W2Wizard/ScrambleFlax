@@ -1,10 +1,10 @@
 ﻿<DockPanelLayout Version="4">
-	<MainWindow IsMaximized="False">
-		<Bounds X="384" Y="0" Width="1300" Height="900" />
+	<MainWindow IsMaximized="True">
+		<Bounds X="0" Y="0" Width="2560" Height="1440" />
 	</MainWindow>
 	<MasterPanel SelectedTab="0">
 		<Window Typename="::FlaxEditor.Windows.EditGameWindow">
-			<Data GridEnabled="True" ShowFpsCounter="False" ShowNavigation="False" NearPlane="8" FarPlane="20000" FieldOfView="60" MovementSpeed="4" OrthographicScale="1" UseOrthographicProjection="False" ViewFlags="22020095" />
+			<Data GridEnabled="False" ShowFpsCounter="True" ShowNavigation="False" NearPlane="8" FarPlane="20000" FieldOfView="60" MovementSpeed="4" OrthographicScale="1" UseOrthographicProjection="False" ViewFlags="22020095" />
 		</Window>
 		<Window Typename="::FlaxEditor.Windows.GameWindow" />
 		<Panel DockState="10" SplitterValue="0.2417969" SelectedTab="0">
@@ -13,7 +13,7 @@
 				<Window Typename="::FlaxEditor.Windows.ToolboxWindow" />
 			</Panel>
 		</Panel>
-		<Panel DockState="9" SplitterValue="0.3702065" SelectedTab="0">
+		<Panel DockState="9" SplitterValue="0.3702065" SelectedTab="1">
 			<Window Typename="::FlaxEditor.Windows.ContentWindow">
 				<Data Split="0.2" Scale="1" ShowFileExtensions="False" ViewType="Tiles" />
 			</Window>

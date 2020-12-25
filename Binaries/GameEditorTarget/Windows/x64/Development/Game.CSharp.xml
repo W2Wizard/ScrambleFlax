@@ -4,5 +4,10 @@
         <name>Game.CSharp</name>
     </assembly>
     <members>
+        <member name="T:Game.GameScript">
+            <summary>
+            Script that contains the majority of the games functionality
+            </summary>
+        </member>
     </members>
 </doc>

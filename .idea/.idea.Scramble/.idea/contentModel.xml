@@ -221,13 +221,13 @@
     <e p="C:\Users\leond\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
     <e p="C:\Users\leond\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Scramble.-561153974.00" t="ExcludeRecursive" />
     <e p="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble" t="IncludeFlat">
-      <e p="Binaries\GameEditorTarget\Windows\x64\Development" t="ExcludeRecursive" />
+      <e p="Binaries\GameEditorTarget\Windows\x64\Debug" t="ExcludeRecursive" />
       <e p="Cache\Intermediate\BuildScripts\Windows\AnyCPU\Debug\CSharp" t="ExcludeRecursive" />
       <e p="Cache\Intermediate\GameEditorTarget\Windows\Win32\Debug\Game\Game.Bindings.Gen.cs" t="Include" />
       <e p="Cache\Intermediate\GameEditorTarget\Windows\Win32\Development\Game\Game.Bindings.Gen.cs" t="Include" />
       <e p="Cache\Intermediate\GameEditorTarget\Windows\Win32\Release\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\GameEditorTarget\Windows\x64\Debug\CSharp" t="ExcludeRecursive" />
       <e p="Cache\Intermediate\GameEditorTarget\Windows\x64\Debug\Game\Game.Bindings.Gen.cs" t="Include" />
-      <e p="Cache\Intermediate\GameEditorTarget\Windows\x64\Development\CSharp" t="ExcludeRecursive" />
       <e p="Cache\Intermediate\GameEditorTarget\Windows\x64\Development\Game\Game.Bindings.Gen.cs" t="Include" />
       <e p="Cache\Intermediate\GameEditorTarget\Windows\x64\Release\Game\Game.Bindings.Gen.cs" t="Include" />
       <e p="Cache\Intermediate\GameTarget\Windows\Win32\Debug\Game\Game.Bindings.Gen.cs" t="Include" />
@@ -251,7 +251,6 @@
           <e p="MenuUI" t="Include">
             <e p="Menu.cs" t="Include" />
           </e>
-          <e p="MySettings.cs" t="Include" />
           <e p="WordData.cs" t="Include" />
         </e>
         <e p="Game.csproj" t="IncludeRecursive" />
