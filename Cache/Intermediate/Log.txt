@@ -1,0 +1,92 @@
+[00:00:001] Flax.Build 1.0.7657
+[00:00:002]   Arguments: -log -genproject
+[00:00:002]   Workspace: C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble
+[00:00:002]   Engine: C:\Program Files (x86)\Flax\Flax_1.0
+[00:00:006] Loading project file from "C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Scramble.flaxproj"...
+[00:00:118] Loading project file from "C:\Program Files (x86)\Flax\Flax_1.0\Flax.flaxproj"...
+[00:00:127] Loaded project Flax, version 1.0.6214
+[00:00:127] Loaded project Scramble, version 1.0
+[00:00:452] Generating project files...
+[00:00:472] Missing Android SDK. Cannot build for Android platform.
+[00:00:474] Missing Linux Toolchain. Cannot build for Linux platform.
+[00:00:483] Found Windows SDK v10_0_18362_0 at C:\Program Files (x86)\Windows Kits\10\
+[00:00:493] Found VisualStudio2019 at C:\Program Files (x86)\Microsoft Visual Studio\2019\Community
+[00:00:493] Found VisualStudio2015 at C:\Program Files (x86)\Microsoft Visual Studio 14.0\
+[00:00:497] Found Windows toolset v140 at C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC
+[00:00:497] Found Windows toolset v142 at C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333
+[00:00:523] Engine build version: 1.0.6214
+[00:00:535] Missing VULKAN_SDK environment variable. Cannot build Vulkan.
+[00:00:535] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:556] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:562] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:571] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:577] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:586] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:592] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:604] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:609] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:619] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:624] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:632] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:637] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:645] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:651] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:659] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:664] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:670] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:675] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:683] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:689] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:696] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:705] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:713] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:724] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:742] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:752] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:769] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:781] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:798] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:809] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:825] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:843] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:857] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:867] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:881] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:891] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:904] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:915] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:927] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:937] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:950] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:960] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:972] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:982] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:00:996] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:006] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:019] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:033] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:042] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:048] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:056] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:061] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:070] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:075] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:083] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:087] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:093] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:098] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:107] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:112] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:119] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:123] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:129] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:133] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:140] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:143] Game -> C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Source\Game.csproj
+[00:01:160] Saved file to C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Source\Game.csproj
+[00:01:160] Project BuildScripts -> C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache\Projects\BuildScripts.csproj
+[00:01:160] Skipped saving file to C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache\Projects\BuildScripts.csproj
+[00:01:160] Solution -> C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Scramble.sln
+[00:01:182] Skipped saving file to C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Scramble.sln
+[00:01:182] Total time: 00:00:01.1860764
+[00:01:182] End.

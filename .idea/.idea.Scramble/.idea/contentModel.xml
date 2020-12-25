@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Program Files (x86)\Flax\Flax_1.0\Source\Editor" t="Include">
+      <e p="Editor.Build.cs" t="Include" />
+    </e>
+    <e p="C:\Program Files (x86)\Flax\Flax_1.0\Source\Engine" t="Include">
+      <e p="Animations" t="Include">
+        <e p="Animations.Build.cs" t="Include" />
+      </e>
+      <e p="Audio" t="Include">
+        <e p="Audio.Build.cs" t="Include" />
+      </e>
+      <e p="Content" t="Include">
+        <e p="Content.Build.cs" t="Include" />
+      </e>
+      <e p="ContentExporters" t="Include">
+        <e p="ContentExporters.Build.cs" t="Include" />
+      </e>
+      <e p="ContentImporters" t="Include">
+        <e p="ContentImporters.Build.cs" t="Include" />
+      </e>
+      <e p="Core" t="Include">
+        <e p="Core.Build.cs" t="Include" />
+      </e>
+      <e p="CSG" t="Include">
+        <e p="CSG.Build.cs" t="Include" />
+      </e>
+      <e p="Debug" t="Include">
+        <e p="Debug.Build.cs" t="Include" />
+      </e>
+      <e p="Engine" t="Include">
+        <e p="Engine.Build.cs" t="Include" />
+      </e>
+      <e p="Foliage" t="Include">
+        <e p="Foliage.Build.cs" t="Include" />
+      </e>
+      <e p="Graphics" t="Include">
+        <e p="Graphics.Build.cs" t="Include" />
+      </e>
+      <e p="GraphicsDevice" t="Include">
+        <e p="DirectX" t="Include">
+          <e p="DX11" t="Include">
+            <e p="GraphicsDeviceDX11.Build.cs" t="Include" />
+          </e>
+          <e p="DX12" t="Include">
+            <e p="GraphicsDeviceDX12.Build.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Null" t="Include">
+          <e p="GraphicsDeviceNull.Build.cs" t="Include" />
+        </e>
+        <e p="OpenGL" t="Include">
+          <e p="GraphicsDeviceOGL.Build.cs" t="Include" />
+        </e>
+        <e p="Vulkan" t="Include">
+          <e p="GraphicsDeviceVulkan.Build.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Input" t="Include">
+        <e p="Input.Build.cs" t="Include" />
+      </e>
+      <e p="Level" t="Include">
+        <e p="Level.Build.cs" t="Include" />
+      </e>
+      <e p="Main" t="Include">
+        <e p="Main.Build.cs" t="Include" />
+      </e>
+      <e p="Navigation" t="Include">
+        <e p="Navigation.Build.cs" t="Include" />
+      </e>
+      <e p="Particles" t="Include">
+        <e p="Particles.Build.cs" t="Include" />
+      </e>
+      <e p="Physics" t="Include">
+        <e p="Physics.Build.cs" t="Include" />
+      </e>
+      <e p="Platform" t="Include">
+        <e p="Platform.Build.cs" t="Include" />
+      </e>
+      <e p="Profiler" t="Include">
+        <e p="Profiler.Build.cs" t="Include" />
+      </e>
+      <e p="Render2D" t="Include">
+        <e p="Render2D.Build.cs" t="Include" />
+      </e>
+      <e p="Renderer" t="Include">
+        <e p="Renderer.Build.cs" t="Include" />
+      </e>
+      <e p="Scripting" t="Include">
+        <e p="Scripting.Build.cs" t="Include" />
+      </e>
+      <e p="Serialization" t="Include">
+        <e p="Serialization.Build.cs" t="Include" />
+      </e>
+      <e p="ShadersCompilation" t="Include">
+        <e p="DirectX" t="Include">
+          <e p="ShaderCompilerD3D.Build.cs" t="Include" />
+          <e p="ShaderCompilerDX.Build.cs" t="Include" />
+        </e>
+        <e p="OpenGL" t="Include">
+          <e p="ShaderCompilerOGL.Build.cs" t="Include" />
+        </e>
+        <e p="ShadersCompilation.Build.cs" t="Include" />
+        <e p="Vulkan" t="Include">
+          <e p="ShaderCompilerVulkan.Build.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ShadowsOfMordor" t="Include">
+        <e p="ShadowsOfMordor.Build.cs" t="Include" />
+      </e>
+      <e p="Streaming" t="Include">
+        <e p="Streaming.Build.cs" t="Include" />
+      </e>
+      <e p="Terrain" t="Include">
+        <e p="Terrain.Build.cs" t="Include" />
+      </e>
+      <e p="Threading" t="Include">
+        <e p="Threading.Build.cs" t="Include" />
+      </e>
+      <e p="Tools" t="Include">
+        <e p="AudioTool" t="Include">
+          <e p="AudioTool.Build.cs" t="Include" />
+        </e>
+        <e p="MaterialGenerator" t="Include">
+          <e p="MaterialGenerator.Build.cs" t="Include" />
+        </e>
+        <e p="ModelTool" t="Include">
+          <e p="ModelTool.Build.cs" t="Include" />
+        </e>
+        <e p="TextureTool" t="Include">
+          <e p="TextureTool.Build.cs" t="Include" />
+        </e>
+      </e>
+      <e p="UI" t="Include">
+        <e p="UI.Build.cs" t="Include" />
+      </e>
+      <e p="Utilities" t="Include">
+        <e p="Utilities.Build.cs" t="Include" />
+      </e>
+      <e p="Visject" t="Include">
+        <e p="Visject.Build.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Program Files (x86)\Flax\Flax_1.0\Source\FlaxEditor.Build.cs" t="Include" />
+    <e p="C:\Program Files (x86)\Flax\Flax_1.0\Source\FlaxGame.Build.cs" t="Include" />
+    <e p="C:\Program Files (x86)\Flax\Flax_1.0\Source\ThirdParty" t="Include">
+      <e p="assimp" t="Include">
+        <e p="assimp.Build.cs" t="Include" />
+      </e>
+      <e p="curl" t="Include">
+        <e p="curl.Build.cs" t="Include" />
+      </e>
+      <e p="DirectXMesh" t="Include">
+        <e p="DirectXMesh.Build.cs" t="Include" />
+      </e>
+      <e p="DirectXTex" t="Include">
+        <e p="DirectXTex.Build.cs" t="Include" />
+      </e>
+      <e p="fmt" t="Include">
+        <e p="fmt.Build.cs" t="Include" />
+      </e>
+      <e p="freetype" t="Include">
+        <e p="freetype.Build.cs" t="Include" />
+      </e>
+      <e p="glslang" t="Include">
+        <e p="glslang.Build.cs" t="Include" />
+      </e>
+      <e p="LZ4" t="Include">
+        <e p="lz4.Build.cs" t="Include" />
+      </e>
+      <e p="meshoptimizer" t="Include">
+        <e p="meshoptimizer.Build.cs" t="Include" />
+      </e>
+      <e p="minimp3" t="Include">
+        <e p="minimp3.Build.cs" t="Include" />
+      </e>
+      <e p="mono-2.0" t="Include">
+        <e p="mono.Build.cs" t="Include" />
+      </e>
+      <e p="ogg" t="Include">
+        <e p="ogg.Build.cs" t="Include" />
+      </e>
+      <e p="OpenFBX" t="Include">
+        <e p="OpenFBX.Build.cs" t="Include" />
+      </e>
+      <e p="PhysX" t="Include">
+        <e p="PhysX.Build.cs" t="Include" />
+      </e>
+      <e p="pugixml" t="Include">
+        <e p="pugixml.Build.cs" t="Include" />
+      </e>
+      <e p="rapidjson" t="Include">
+        <e p="rapidjson.Build.cs" t="Include" />
+      </e>
+      <e p="recastnavigation" t="Include">
+        <e p="recastnavigation.Build.cs" t="Include" />
+      </e>
+      <e p="spirv-tools" t="Include">
+        <e p="spirv_tools.Build.cs" t="Include" />
+      </e>
+      <e p="stb" t="Include">
+        <e p="stb.Build.cs" t="Include" />
+      </e>
+      <e p="UniversalAnalytics" t="Include">
+        <e p="UniversalAnalytics.Build.cs" t="Include" />
+      </e>
+      <e p="UVAtlas" t="Include">
+        <e p="UVAtlas.Build.cs" t="Include" />
+      </e>
+      <e p="volk" t="Include">
+        <e p="volk.Build.cs" t="Include" />
+      </e>
+      <e p="vorbis" t="Include">
+        <e p="vorbis.Build.cs" t="Include" />
+      </e>
+      <e p="VulkanMemoryAllocator" t="Include">
+        <e p="VulkanMemoryAllocator.Build.cs" t="Include" />
+      </e>
+    </e>
+    <e p="C:\Users\leond\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\leond\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Scramble.-561153974.00" t="ExcludeRecursive" />
+    <e p="C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble" t="IncludeFlat">
+      <e p="Binaries\GameEditorTarget\Windows\x64\Development" t="ExcludeRecursive" />
+      <e p="Cache\Intermediate\BuildScripts\Windows\AnyCPU\Debug\CSharp" t="ExcludeRecursive" />
+      <e p="Cache\Intermediate\GameEditorTarget\Windows\Win32\Debug\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\GameEditorTarget\Windows\Win32\Development\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\GameEditorTarget\Windows\Win32\Release\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\GameEditorTarget\Windows\x64\Debug\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\GameEditorTarget\Windows\x64\Development\CSharp" t="ExcludeRecursive" />
+      <e p="Cache\Intermediate\GameEditorTarget\Windows\x64\Development\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\GameEditorTarget\Windows\x64\Release\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\GameTarget\Windows\Win32\Debug\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\GameTarget\Windows\Win32\Development\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\GameTarget\Windows\Win32\Release\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\GameTarget\Windows\x64\Debug\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\GameTarget\Windows\x64\Development\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\GameTarget\Windows\x64\Release\Game\Game.Bindings.Gen.cs" t="Include" />
+      <e p="Cache\Intermediate\Unused" t="ExcludeRecursive" />
+      <e p="Cache\Projects" t="IncludeRecursive">
+        <e p="BuildScripts.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Scramble.sln" t="IncludeFlat" />
+      <e p="Source" t="IncludeRecursive">
+        <e p="Game" t="Include">
+          <e p="Game.Build.cs" t="Include" />
+          <e p="GameUI" t="Include">
+            <e p="GameScript.cs" t="Include" />
+          </e>
+          <e p="MenuUI" t="Include">
+            <e p="Menu.cs" t="Include" />
+          </e>
+          <e p="MySettings.cs" t="Include" />
+          <e p="WordData.cs" t="Include" />
+        </e>
+        <e p="Game.csproj" t="IncludeRecursive" />
+        <e p="Game.Gen.cs" t="Include" />
+        <e p="GameEditorTarget.Build.cs" t="Include" />
+        <e p="GameTarget.Build.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

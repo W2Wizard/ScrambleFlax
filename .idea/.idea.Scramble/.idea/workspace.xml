@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cce56327-7ce8-4a02-be2e-e6925c7575ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/5e/2d748518/JsonAsset.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/dd/72d07306/SettingsBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/f9/ac06a179/GameSettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/57931F5F-95E2-44DB-99D4-69AAE43D8615/3b/b90322ac/UIControl.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Source/Game.Gen.cs" />
+      <option value="$PROJECT_DIR$/Source/Game/Note.cs" />
+      <option value="$PROJECT_DIR$/Source/Game/MainMenu/MainMenu.cs" />
+      <option value="$PROJECT_DIR$/Source/Game/InGame/InGame.cs" />
+      <option value="$PROJECT_DIR$/Source/Game/Game.cs" />
+      <option value="$PROJECT_DIR$/Source/Game/Menu.cs" />
+      <option value="$PROJECT_DIR$/Source/Game/Test.cs" />
+      <option value="$PROJECT_DIR$/Source/Game/MainMenu/Menu.cs" />
+      <option value="$PROJECT_DIR$/Source/Game/GameUI/GameScript.cs" />
+      <option value="$PROJECT_DIR$/Source/Game/WordData.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1m8ySQ785hEh9EmRapic5Oj0I4K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cce56327-7ce8-4a02-be2e-e6925c7575ce" name="Default Changelist" comment="" />
+      <created>1608889512934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608889512934</updated>
+      <workItem from="1608889524088" duration="7673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

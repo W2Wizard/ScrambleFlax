@@ -1,0 +1,95 @@
+[00:00:001] Flax.Build 1.0.7657
+[00:00:001]   Arguments: -log -logfile="C:\Users/leond/Desktop/Projects/FlaxProjects/Scramble/Cache/Cooker/Windows/CompileLog.txt" -build -mutex -buildtargets=GameTarget -platform=Windows -arch=x64 -configuration=Release
+[00:00:001]   Workspace: C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble
+[00:00:001]   Engine: C:\Program Files (x86)\Flax\Flax_1.0
+[00:00:004] Loading project file from "C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Scramble.flaxproj"...
+[00:00:110] Loading project file from "C:\Program Files (x86)\Flax\Flax_1.0\Flax.flaxproj"...
+[00:00:118] Loaded project Flax, version 1.0.6214
+[00:00:118] Loaded project Scramble, version 1.0
+[00:00:392] Building targets...
+[00:00:406] Missing Android SDK. Cannot build for Android platform.
+[00:00:407] Missing Linux Toolchain. Cannot build for Linux platform.
+[00:00:414] Found Windows SDK v10_0_18362_0 at C:\Program Files (x86)\Windows Kits\10\
+[00:00:423] Found VisualStudio2019 at C:\Program Files (x86)\Microsoft Visual Studio\2019\Community
+[00:00:423] Found VisualStudio2015 at C:\Program Files (x86)\Microsoft Visual Studio 14.0\
+[00:00:427] Found Windows toolset v140 at C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC
+[00:00:427] Found Windows toolset v142 at C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333
+[00:00:429] Building C# only
+[00:00:429] Building target GameTarget in Release for Windows x64
+[00:00:446] Building referenced target Flax
+[00:00:471] Parsing API bindings for Platform (FlaxEngine)
+[00:00:566] Parsing API bindings for Core (FlaxEngine)
+[00:01:044] Parsing API bindings for Visject (FlaxEngine)
+[00:01:057] Parsing API bindings for Animations (FlaxEngine)
+[00:01:105] Parsing API bindings for Audio (FlaxEngine)
+[00:01:126] Missing VULKAN_SDK environment variable. Cannot build Vulkan.
+[00:01:127] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:135] Parsing API bindings for Graphics (FlaxEngine)
+[00:01:368] Parsing API bindings for Utilities (FlaxEngine)
+[00:01:369] Parsing API bindings for Particles (FlaxEngine)
+[00:01:388] Parsing API bindings for Content (FlaxEngine)
+[00:01:442] Parsing API bindings for Debug (FlaxEngine)
+[00:01:453] Parsing API bindings for Foliage (FlaxEngine)
+[00:01:462] Parsing API bindings for Renderer (FlaxEngine)
+[00:01:470] Parsing API bindings for Render2D (FlaxEngine)
+[00:01:496] Parsing API bindings for Input (FlaxEngine)
+[00:01:530] Parsing API bindings for Physics (FlaxEngine)
+[00:01:583] Parsing API bindings for Scripting (FlaxEngine)
+[00:01:598] Parsing API bindings for Navigation (FlaxEngine)
+[00:01:602] Parsing API bindings for Level (FlaxEngine)
+[00:01:679] Parsing API bindings for Terrain (FlaxEngine)
+[00:01:686] Parsing API bindings for UI (FlaxEngine)
+[00:01:692] Parsing API bindings for Engine (FlaxEngine)
+[00:01:705] Building module Platform
+[00:01:709] Building module fmt
+[00:01:709] Building module Core
+[00:01:709] Building module Main
+[00:01:709] Building module Visject
+[00:01:709] Building module Animations
+[00:01:709] Building module ogg
+[00:01:709] Building module vorbis
+[00:01:709] Building module AudioTool
+[00:01:709] Building module Audio
+[00:01:709] Building module lz4
+[00:01:709] Building module DirectXTex
+[00:01:709] Building module TextureTool
+[00:01:709] Building module GraphicsDeviceNull
+[00:01:709] Building module GraphicsDeviceDX11
+[00:01:709] Building module GraphicsDeviceDX12
+[00:01:709] Building module Graphics
+[00:01:709] Building module Utilities
+[00:01:709] Building module Particles
+[00:01:709] Building module Content
+[00:01:709] Building module Debug
+[00:01:709] Building module Foliage
+[00:01:709] Building module Renderer
+[00:01:709] Building module freetype
+[00:01:709] Building module Render2D
+[00:01:709] Building module Input
+[00:01:709] Building module PhysX
+[00:01:709] Building module Physics
+[00:01:709] Building module mono
+[00:01:709] Building module Scripting
+[00:01:709] Building module Serialization
+[00:01:709] Building module recastnavigation
+[00:01:709] Building module Navigation
+[00:01:709] Building module Level
+[00:01:709] Building module Streaming
+[00:01:709] Building module Terrain
+[00:01:709] Building module Threading
+[00:01:709] Building module UI
+[00:01:709] Building module Engine
+[00:01:710] Skipping build for target FlaxGame
+[00:01:711] Engine build version: 1.0.6214
+[00:01:716] Building for Windows without Vulkan rendering backend (Vulkan SDK is missing)
+[00:01:722] Generating binary module bindings for Game
+[00:01:725] Skipped saving file to C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Source\Game.Gen.cs
+[00:01:725] Building module Game
+[00:01:731] Skipped saving file to C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Cache/Intermediate\GameTarget\Windows\x64\Release\Game.CSharp.response
+[00:01:755] Skipped saving file to C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Binaries\GameTarget\Windows\x64\Release\GameTarget.Build.json
+[00:01:760] Found 6 valid and 0 invalid actions in Task Graph cache
+[00:01:761] 
+[00:01:761] Total 3 tasks
+[00:01:762] Done!
+[00:01:762] Total time: 00:00:01.7671436
+[00:01:762] End.

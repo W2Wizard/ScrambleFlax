@@ -1,0 +1,31 @@
+/nologo
+/target:library
+/platform:AnyCPU
+/debug+
+/debug:portable
+/errorreport:prompt
+/preferreduilang:en-US
+/highentropyva+
+/deterministic
+/nostdlib+
+/errorendlocation
+/utf8output
+/warn:4
+/unsafe
+/fullpaths
+/langversion:7.3
+/optimize+
+/out:"C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Binaries\GameEditorTarget\Windows\x64\Development\Game.CSharp.dll"
+/doc:"C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Binaries\GameEditorTarget\Windows\x64\Development\Game.CSharp.xml"
+/define:BUILD_DEVELOPMENT;PLATFORM_WINDOWS;FLAX;FLAX_1;FLAX_1_0;FLAX_ASSERTIONS;FLAX_EDITOR
+/reference:"C:\Program Files (x86)\Flax\Flax_1.0\Source\Platforms\Editor\Windows\Mono\lib\mono\4.5-api\mscorlib.dll"
+/reference:"C:\Program Files (x86)\Flax\Flax_1.0\Source\Platforms\Editor\Windows\Mono\lib\mono\4.5-api\System.dll"
+/reference:"C:\Program Files (x86)\Flax\Flax_1.0\Source\Platforms\Editor\Windows\Mono\lib\mono\4.5-api\System.Xml.dll"
+/reference:"C:\Program Files (x86)\Flax\Flax_1.0\Source\Platforms\Editor\Windows\Mono\lib\mono\4.5-api\System.Core.dll"
+/reference:"C:\Program Files (x86)\Flax\Flax_1.0\Source\Platforms\DotNet\Newtonsoft.Json.dll"
+/reference:"C:\Program Files (x86)\Flax\Flax_1.0\Binaries\Editor\Win64\Development\FlaxEngine.CSharp.dll"
+"C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Source\Game.Gen.cs"
+"C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Source\Game\GameUI\GameScript.cs"
+"C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Source\Game\MenuUI\Menu.cs"
+"C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Source\Game\MySettings.cs"
+"C:\Users\leond\Desktop\Projects\FlaxProjects\Scramble\Source\Game\WordData.cs"
